@@ -5,27 +5,22 @@ Soy estudiante y estoy en constante aprendizaje en el mundo del desarrollo. Disf
 <br>
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+
 </div>
